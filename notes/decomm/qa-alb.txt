@@ -1,0 +1,53 @@
+
+ALB                             TG 
+ACCESS-QA                   || ACCESS-QA-HTTP-23016         26/09/24
+ACORN-QA                    || acorn-qa-https               30/08/24
+booklabeler-qa              || Booklabeler-QA
+CNA-QA                      || COLONIAL AMERICA QA          09/10/24
+Dockerised-QA               || No Listener 
+DRSMDSRV-QA                 || DRSMDSSRV-QA                 20/11/24
+EDA-QA                      || EDA-QA                       09/10/24
+EDA-SOLR-QA                 || EDA-SOLR-QA                  08/11/24
+drsmdsrv-QA                 || drsmdsrv-qa                  10/10/24
+DATABOARD QA                || DATBOARD-QA-10401            13/11/24
+DASH-QA                     || DASH-QA-PROXY                10/03/25
+DASHV7-API-DEMO-QA          || DASHV7-API-DEMO-QA           10/03/25
+DASHV7-DEMO-QA              || DASHv7-demo                  10/03/25
+DCP-QA                      || dcp-qa                       09/10/24
+DOCKERISED TOOLS QA         ||                              09/10/24
+DRS-MESSAGE-QA              || DRS-MESSAGE-QA               18/11/24
+                            || DRS-MESSAGE-QA-1880          18/11/24
+FTS-QA                      || FTS-QA
+                            || FTS-QA-10087
+IDS-QA                      || IDS-QA-HTTP
+                            || IDS-QA-HTTPS
+
+IIIF-QA                     || IIIF-QA-HTTP                 10/09/2024
+                            || IIIF-QA-HTTPS
+iiif-update-qa              ||  iiif-update-http           08/10/24
+IIIF-UPDATE-QA              ||  IIIF-UPDATE-HTTP           08/10/24                           
+jobmon-qa                   || jobmon-qa-http
+JOBMON-QA                   || JOBMON-QA-HTTPS
+Listview-QA                 || Listview-docker-qa-http
+mps-embed-qa                || mps-embed-qa-23018
+mps-viewer-qa               || 
+MPS-Ingest-QA               ||  MPS-Ingest-QA               07/09/2024
+MPS-ADMIN-QA                ||  MPS-ADMIN-DEV-QA-22300
+                            ||  MPS-ADMIN-QA-HTTP-22100
+                            ||  MPS-ADMIN-QA-HTTP-23003
+                            ||  MPS-ADMIN-QA-HTTP-23012
+                            ||  MPS-ADMIN-QA-HTTP-23034
+                            ||  MPS-ADMIN-QA-HTTP-23040 
+                            ||  mps-admin-qa-http-23013
+                            ||  mps-admin-qa-http-23039
+MPS-VIEWER-QA               ||  mps-viewer-qa-23017
+NRS-QA                      ||  NRS-QA-DOCKER
+nrs-qa                      ||  nrs-QA-docker
+pds-qa                      ||  pds-qa                      02/09/24
+                            ||  pds-qa-ssl
+sds-qa-docker               ||  SDS-QA                      31/08/24
+SDS-QA                      ||  
+SDS-CS-QA                   ||  
+WORDSHACK-QA                || WORDSHACK-QA                 13/11/24
+                            || WORDSHACK-9338
+                            || 
