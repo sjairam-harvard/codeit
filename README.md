@@ -14,3 +14,6 @@ The following scripts are in the 'bin' folder
 
 ### restart-deployment
 * restart deployment for specific kubecontext 
+
+### restore_shibboleth
+* Restore Shibboleth from Rancher back.  
