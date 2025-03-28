@@ -1,5 +1,5 @@
 # codeit
-Coding stuff for devsecops
+Useful scripts for devops and/or infra engineers
 
 The following scripts are in the 'bin' folder
 
@@ -15,5 +15,8 @@ The following scripts are in the 'bin' folder
 ### restart-deployment
 * restart deployment for specific kubecontext 
 
+### restore_oidc
+* Restore OIDC config from Rancher backup
+
 ### restore_shibboleth
-* Restore Shibboleth from Rancher back.  
+* Restore Shibboleth config from Rancher backup
