@@ -3,6 +3,9 @@ Useful scripts for devops and/or infra engineers
 
 The following scripts are in the 'bin' folder
 
+### github_personal.sh
+* Checks out personal repos into the 'personal' folder
+
 ### list_alb & listALB
 * List the ALBs for a specific AWS account
 
